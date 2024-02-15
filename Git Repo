@@ -1,0 +1,19 @@
+Repositiry (Online Repo)
+--> github, gitlab, bitbucket, self maintained
+--> cloned this on local machine (local machine) git
+--> Development
+--> Feature Developer
+--> Commit your code
+    - tracking adding
+    - staging commit message
+a. Push
+   - up;oading your code from local machine to online repo
+b. Pull
+   - downloading online repo codes to your local repo
+   *** If there is already a push before yours, then first the code
+   ---> Pull code
+   ---> Conflict might arise
+   ---> Manually resolve the conflict
+   ---> Again commit your code
+
+   ---> You are allowed to push 
