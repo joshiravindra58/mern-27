@@ -17,3 +17,11 @@ b. Pull
    ---> Again commit your code
 
    ---> You are allowed to push 
+  
+  
+  1-> git init
+  2-> git remote add origin
+  3-> git commit-m JS basic completed
+  4-> git status
+  5-> git push origin master
+
